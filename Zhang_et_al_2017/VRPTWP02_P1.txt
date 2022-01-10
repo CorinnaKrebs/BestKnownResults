@@ -1,0 +1,79 @@
+Name:				VRPTWP02
+Problem:			3L-VRPTW
+Number_of_used_Vehicles:	5
+Total_Travel_Distance:		276.64
+Calculation_Time:		1.78
+Total_Iterations:		8281
+ConstraintSet:			P1
+
+-------------------------------------------------------------------------------------------------------------------
+Tour_Id:			1
+No_of_Customers:		3
+No_of_Items:			6
+Customer_Sequence:		8 9 7 
+
+CustId	Id	TypeId	Rotated	x	y	z	Length	Width	Height	mass	Fragility	LoadBearingStrength
+7	13	13	0	0	0	0	32	6	15	9.50	1		0.514623
+9	16	16	0	0	6	0	22	15	12	5.50	1		0.507951
+9	17	17	0	0	6	12	25	9	6	5.50	1		0.749751
+7	12	12	0	32	0	0	13	6	16	9.50	0		1.847402
+8	14	14	0	32	6	0	17	14	14	11.50	0		1.110449
+8	15	15	0	0	6	18	21	11	10	11.50	1		0.822172
+
+
+-------------------------------------------------------------------------------------------------------------------
+Tour_Id:			2
+No_of_Customers:		3
+No_of_Items:			5
+Customer_Sequence:		10 12 14 
+
+CustId	Id	TypeId	Rotated	x	y	z	Length	Width	Height	mass	Fragility	LoadBearingStrength
+14	25	25	0	0	0	0	35	10	14	10.50	1		0.842247
+14	24	24	0	0	10	0	27	6	13	10.50	0		1.154824
+12	20	20	0	27	10	0	28	12	15	14.50	0		3.573765
+12	21	21	0	27	10	15	15	14	7	14.50	1		0.996116
+10	18	18	0	35	0	0	19	8	13	5	0		1.204615
+
+
+-------------------------------------------------------------------------------------------------------------------
+Tour_Id:			3
+No_of_Customers:		3
+No_of_Items:			4
+Customer_Sequence:		13 15 11 
+
+CustId	Id	TypeId	Rotated	x	y	z	Length	Width	Height	mass	Fragility	LoadBearingStrength
+11	19	19	0	0	0	0	21	11	6	19	0		3.856399
+15	26	26	0	0	11	0	13	14	18	10	0		3.179842
+13	22	22	0	0	0	6	23	9	14	11.50	0		3.896047
+13	23	23	0	13	11	0	34	9	9	11.50	1		0.710162
+
+
+-------------------------------------------------------------------------------------------------------------------
+Tour_Id:			4
+No_of_Customers:		3
+No_of_Items:			5
+Customer_Sequence:		5 3 4 
+
+CustId	Id	TypeId	Rotated	x	y	z	Length	Width	Height	mass	Fragility	LoadBearingStrength
+4	6	6	0	0	0	0	31	13	11	4.50	0		3.408513
+5	8	8	0	0	13	0	33	12	18	21	0		3.360554
+4	7	7	0	0	0	11	18	6	13	4.50	1		0.661343
+3	4	4	0	31	0	0	29	13	14	8	0		2.324137
+3	5	5	0	31	0	14	22	8	8	8	1		0.593775
+
+
+-------------------------------------------------------------------------------------------------------------------
+Tour_Id:			5
+No_of_Customers:		3
+No_of_Items:			6
+Customer_Sequence:		1 2 6 
+
+CustId	Id	TypeId	Rotated	x	y	z	Length	Width	Height	mass	Fragility	LoadBearingStrength
+6	9	9	0	0	0	0	20	13	8	5	0		3.786624
+6	10	10	0	0	13	0	32	8	8	5	0		1.526098
+6	11	11	0	20	0	0	29	11	12	5	1		0.776654
+2	2	2	0	0	13	8	29	7	10	15	0		1.118975
+2	3	3	0	0	13	18	26	5	12	15	1		0.515435
+1	1	1	0	32	13	0	22	11	11	7	0		3.706276
+
+
